@@ -6,7 +6,7 @@ It's a webapp that facilitates shceduling, task management, rent payments, and m
 ## Project Principals
 Roomie is not for profit, but for technical learning and project experience. Repos are open source, and generally APL2 licensed.
 
-The project is delivered in 2 week sprints, following a proper agile design process. This is a spare-time project, so velocity is allowed to vary, but reasonable minimums are still expected.
+The project is delivered in 2 week sprints, following a proper agile design process. This is a spare-time project, so velocity is allowed to vary, but reasonable minimums are still expected. [ZenHub](zenhub.com) is used to manage the project in GitHub as to be transparent and available to all.
 
 ## Technical Design
 
